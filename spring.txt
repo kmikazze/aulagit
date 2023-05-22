@@ -1,1 +1,1 @@
-O Spring é um framework.
+O Spring é uma framework Java.
